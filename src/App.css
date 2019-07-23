@@ -1,5 +1,4 @@
 .App {
-  width: 90%;
   margin: auto;
 }
 
@@ -29,6 +28,11 @@
   margin-left: auto;
   margin-right: auto;
   text-align: center;
+}
+
+.content {
+  margin-left: 10rem;
+  margin-right: 10rem;
 }
 
 @keyframes App-logo-spin {
